@@ -11,6 +11,7 @@ This Python script uses the [nautilus-python](https://gitlab.gnome.org/GNOME/nau
 - Artist
 - Title
 - Album
+- Year
 - Duration
 
 ## Usage
