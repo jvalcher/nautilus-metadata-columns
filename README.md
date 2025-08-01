@@ -5,7 +5,6 @@ This Python script uses the [nautilus-python](https://gitlab.gnome.org/GNOME/nau
 
 <br>
 <p align="center"><img margin-left="auto" src="./screenshot.png"></p>
-<br>
 
 ## Added columns
 
@@ -13,7 +12,6 @@ This Python script uses the [nautilus-python](https://gitlab.gnome.org/GNOME/nau
 - Title
 - Album
 - Duration
-<br>
 
 ## Usage
 
