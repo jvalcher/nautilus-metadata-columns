@@ -44,7 +44,6 @@ class DurationColumnExtension(GObject.GObject, Nautilus.ColumnProvider, Nautilus
             return
 
         try:
-
             filepath = unquote(file.get_uri()[7:])
             tag: TinyTag = TinyTag.get(filepath)
 
@@ -69,6 +68,7 @@ class DurationColumnExtension(GObject.GObject, Nautilus.ColumnProvider, Nautilus
             file.add_string_attribute("artist", "")
             file.add_string_attribute("title", "")
             file.add_string_attribute("album", "")
+            file.add_string_attribute("year", "")
             file.add_string_attribute("duration", "")
 
 
