@@ -30,4 +30,3 @@ If not working, you can check Nautilus' output by opening it inside a terminal s
 nautilus
 ```
 <br>
-
